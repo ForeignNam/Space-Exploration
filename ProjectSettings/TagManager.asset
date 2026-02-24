@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Obstacle
+  - Bullet
+  - Critter
+  - Boss
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - LevelBoundaries
+  - Obstacles
+  - Bullet
+  - Critter
+  - Boss
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 493067783
+    locked: 0
+  - name: Objects
+    uniqueID: 2927697055
+    locked: 0
+  - name: Enemy
+    uniqueID: 3794502275
+    locked: 0
+  - name: Player
+    uniqueID: 2278505443
+    locked: 0
+  - name: UI
+    uniqueID: 164487649
+    locked: 0
+  m_RenderingLayers:
+  - Default
